@@ -1,10 +1,1 @@
-[
-    {
-        "functionRoute": "contact-us",
-        "pluginName": "default-site-plugin",
-        "originalAbsoluteFilePath": "/var/www/html/learn/rental-car/my-gatsby-site/src/api/contact-us.js",
-        "originalRelativeFilePath": "contact-us.js",
-        "relativeCompiledFilePath": "contact-us.js",
-        "absoluteCompiledFilePath": "/var/www/html/learn/rental-car/my-gatsby-site/.cache/functions/contact-us.js"
-    }
-]
+[]
